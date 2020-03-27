@@ -1,2 +1,2 @@
 # hello-world
-my first repo
+my first repository that i created when i set up this github a/c
